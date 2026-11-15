@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Net.Delivery.Order.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Net.Delivery.Order.Api.Controllers.OrderController">
+            <summary>
+            Order Api
+            </summary>
+        </member>
+        <member name="M:Net.Delivery.Order.Api.Controllers.OrderController.#ctor(Net.Delivery.Order.Domain.Services.IOrderService)">
+            <summary>
+            Creates an order api controller
+            </summary>
+            <param name="orderService">Order service instance</param>
+        </member>
+        <member name="M:Net.Delivery.Order.Api.Controllers.OrderController.CreateOrder(System.Collections.Generic.IList{System.String},Net.Delivery.Order.Domain.Entities.Customer)">
+            <summary>
+            Creates an order
+            </summary>
+            <param name="items">Order items</param>
+            <param name="customer">Order customer</param>
+        </member>
+        <member name="M:Net.Delivery.Order.Api.Controllers.OrderController.UpdateOrderSituation(System.String,Net.Delivery.Order.Domain.Entities.OrderSituation)">
+            <summary>
+            Updates an order situation
+            </summary>
+            <param name="orderId">Order identification</param>
+            <param name="orderSituation">Order situation</param>
+        </member>
+        <member name="M:Net.Delivery.Order.Api.Controllers.OrderController.GetAllOrdersToDelivery">
+            <summary>
+            Gets all orders to delivery
+            </summary>
+        </member>
+        <member name="T:Net.Delivery.Order.Api.Startup">
+            <summary>
+            Statup class
+            </summary>
+        </member>
+        <member name="M:Net.Delivery.Order.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configures the services to be used
+            </summary>
+            <param name="services">Services collection</param>
+        </member>
+        <member name="M:Net.Delivery.Order.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Configures the services used before
+            </summary>
+        </member>
+    </members>
+</doc>
