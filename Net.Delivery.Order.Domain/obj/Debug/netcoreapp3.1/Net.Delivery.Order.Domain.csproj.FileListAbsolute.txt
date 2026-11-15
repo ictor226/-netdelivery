@@ -1,0 +1,11 @@
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\bin\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.deps.json
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\bin\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.dll
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\bin\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.pdb
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.csproj.AssemblyReference.cache
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.AssemblyInfoInputs.cache
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.AssemblyInfo.cs
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.sourcelink.json
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.dll
+C:\GitHub\netdelivery\Net.Delivery.Order.Domain\obj\Debug\netcoreapp3.1\Net.Delivery.Order.Domain.pdb

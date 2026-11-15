@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvBzh818xMY=",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\netdelivery\\Net.Delivery.Order.Domain\\Net.Delivery.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huggo\\.nuget\\packages\\confluent.kafka\\2.16.0\\confluent.kafka.2.16.0.nupkg.sha512",
+    "C:\\Users\\huggo\\.nuget\\packages\\librdkafka.redist\\2.16.0\\librdkafka.redist.2.16.0.nupkg.sha512",
+    "C:\\Users\\huggo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.27\\microsoft.extensions.configuration.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\huggo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.27\\microsoft.extensions.primitives.3.1.27.nupkg.sha512",
+    "C:\\Users\\huggo\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\huggo\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
